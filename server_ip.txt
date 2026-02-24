@@ -1,1 +1,1 @@
-mbot-production-c160.up.railway.app
+delonrp.kotkaaja.workers.dev
